@@ -1,0 +1,24 @@
+@import '~antd/dist/antd.css';
+.container{
+	margin: 32px auto;
+	max-width: 640px;
+}
+code {
+  margin: 0 1px;
+  background: #f2f4f5;
+  padding: .2em .4em;
+  border-radius: 3px;
+  font-size: .9em;
+  border: 1px solid #eee;
+}
+.App-header{
+	font-size: 30px;
+	margin-bottom: 32px;
+	text-align: center;
+}
+.tableComponent{
+	margin-top: 65px;
+}
+.repos{
+	margin-bottom: 10px;
+}
